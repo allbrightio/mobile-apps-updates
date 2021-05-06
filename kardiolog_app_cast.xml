@@ -3,12 +3,12 @@
     <channel>
         <title>Kardiolog App</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.0</title>
             <description>Some description for testing</description>
             <pubDate>Fri, 9 april 2021 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=app.kardiolog&amp;hl=pl&amp;ah=WOphRUBLbqJHz3Y1JC6mnBqFuqw"
-                sparkle:os="android" sparkle:version="1.0.3" />
+                sparkle:os="android" sparkle:version="1.0.0" />
         </item>
     </channel>
 </rss>
